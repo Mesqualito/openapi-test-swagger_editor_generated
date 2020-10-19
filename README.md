@@ -1,6 +1,6 @@
-Code generated from http://localhost:8080/v2/api-docs at Mesqualito/openapi-test@9939973 copied to https://editor.swagger.io (19.10.2020, 16:15) and from there exported with "Generate Server" => "Spring"
+Code generated from http://localhost:8080/v2/api-docs at [Mesqualito/openapi-test@9939973](https://github.com/Mesqualito/openapi-test/commit/9939973ee17007b5b0c4c44b073ed3f55e586ff1) copied to https://editor.swagger.io (19.10.2020, 16:15) and from there exported with "Generate Server" => "Spring"
 
-to be compared to Mesqualito/openapi-test@9939973
+to be compared to [Mesqualito/openapi-test@9939973](https://github.com/Mesqualito/openapi-test/commit/9939973ee17007b5b0c4c44b073ed3f55e586ff1)
 
 
 # Swagger generated server
